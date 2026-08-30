@@ -46,7 +46,7 @@ Donate directly to my cryptocurrency wallet. Your contributions will help me mai
 Thank you for your support!
 
 ## Maintainer
-[@Slinker Jiang](https://github.com/slinker-yic)
+[@Slinker Jiang](https://github.com/SlinkerJiang)
 
 ## License
 [MIT](LICENSE) © Slinker Jiang
